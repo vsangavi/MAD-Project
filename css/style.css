@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  
+}
+button{
+ text-align: center;
+ 
+}
+button:hover{
+  background-color:#BB2CD9;
+}
+.navbar{
+  overflow: hidden;
+  background-color: wheat;
+}
+body{
+  background-color:#EAF0F1;
+}
+a{
+  color:#BB2CD9 ;
+}
